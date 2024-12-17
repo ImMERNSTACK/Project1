@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build and production files
+build/
+dist/
+
+# Mac system files
+.DS_Store
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
